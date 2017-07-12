@@ -2,4 +2,6 @@
 
 **This is the first planet in the project.**
 
-Mars looks red.
+Mars looks red
+
+Mars is named after the Roman god of war.

@@ -1,3 +1,5 @@
  Venus is another planet.
 
  It is named after the Roman goddess of love.
+
+ It is gaseous.
