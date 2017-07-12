@@ -1,0 +1,3 @@
+# Mars is a cool planet
+
+**This is the first planet in the project.**
